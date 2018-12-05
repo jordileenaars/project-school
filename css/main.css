@@ -129,8 +129,6 @@ input{
 span{
     text-decoration: underline;
 }
-
-
 header{
     background: url("../img/blueasy.png");
 }
@@ -191,7 +189,6 @@ mark{
     display: flex;
     flex-direction: column;
 }
-
 .portfolio-menu{
     display: flex;
     color: #626f76;
@@ -218,7 +215,6 @@ mark{
 .portfolio img{
     width: 25%;
 }
-
 .default{
     background: #626f76;
     color: white;
@@ -231,7 +227,6 @@ input[type=submit]{
     width: 10%;
     background: #515F67;
 }
-
 .default iframe{
     float: right;
     margin-left: 9em;
@@ -239,8 +234,6 @@ input[type=submit]{
 .default p{
     padding-top: 1em;
 }
-
-
 .twitter{
     background: #4bcaff;
     color: white;
@@ -258,8 +251,6 @@ input[type=submit]{
     width: 4em;
     padding-top: 30px;
 }
-
-
 .john-doe{
     background: url("../img/who_is_background.jpg");
     color: white;
